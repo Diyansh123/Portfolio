@@ -1,25 +1,28 @@
-# 🚀 Soumyajit Basak's Developer Portfolio
+# 🚀 Sonu Verma Sr. Data Research Analyst | Business Analyst Portfolio
 
-![Portfolio Banner](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a09a1dbe-5053-4ba0-8979-357db3640367" />
 
-Welcome to my personal developer portfolio — a sleek, interactive, and dynamic website that gives you a deep dive into who I am, what I build, and how I think. Built with passion and precision, this project showcases not only my skills but also my creativity in building web experiences.
+
+
+Welcome to my personal Sr. Data Research Analyst portfolio — Business Research Analyst with 6+ years of experience conducting data-driven market research, competitive intelligence, and strategic analysis to drive informed decision-making. Adept at utilizing advanced analytical tools (SQL, Excel, MS Power BI) to extract actionable insights from complex data sets. Proven success in delivering high-impact research that supports product development, market expansion, and revenue growth. Strong communicator and collaborator with cross-functional teams in fast-paced, data-centric environments.
 
 ---
 
 ## 🧑‍💻 About Me
 
-**Name:** Soumyajit Basak  
-**Title:** Jr. Software Developer  
-**Location:** Bengaluru, India  
+**Name:** Sonu Verma  
+**Title:** Sr. Data Research Analyst
+**Location:** Noida, India  
 
-Passionate Engineering Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
+Passionate Commerce Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
 
 ---
 
 ## ✨ Features
 
-- 🌀 **Framer Motion** — Smooth animations & transitions to give a dynamic feel to the site.
-- 🖱️ **Say Hello Button** — Instantly book a 1:1 meeting with me.
+- 🌀 **Framer Motion** — Conduct in-depth market and competitive analysis to identify emerging trends, customer needs, and market 
+opportunities for executive leadership.
+- 🖱️ **Say Hello Button** — Instantly book a 1:1 and Remort meeting with me.
 - 📄 **Download CV** — Grab a copy of my resume directly from the site.
 - 🌗 **Dark Mode Toggle** — Because your eyes deserve the choice.
 - ⚡ Fully responsive layout and stylish UI.
@@ -41,10 +44,10 @@ Each section is carefully crafted to tell my story and showcase my journey.
 
 ## 🔧 Tech Stack
 
-- **React.js**
-- **Framer Motion**
-- **Tailwind CSS**
-- **JavaScript / HTML / CSS**
+- **Data Analyst**
+- **Data Research**
+- **Power BI**
+- **SQL / HTML / Python
 - **EmailJS** for direct contact
 - **React Icons** for a modern feel
 
@@ -52,7 +55,7 @@ Each section is carefully crafted to tell my story and showcase my journey.
 
 ## 📷 Sneak Peek
 
-![Screenshot](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
+![Portfolio Banner](https://github.com/sonu verma<img width="395" height="223" alt="Screenshot 2025-08-14 121811" src="https://github.com/user-attachments/assets/efee3f72-49da-4c70-9b3f-fa2b12916304" />
 
 ---
 
@@ -65,15 +68,13 @@ Click the **“Say Hello”** button on my portfolio to **book a meeting** with 
 
 ## 🌐 Live Demo
 
-[🚀 Visit My Portfolio](https://soumyajitbasak.netlify.app/)  
+[🚀 Visit My Portfolio](https://Sonu Verma.app/)  
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/soumyajiitttt)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/soumyajiitttt)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/soumyajiitt)
+[![https://www.linkedin.com/in/sonu-verma-6b7285143/)  
 
 ---
 
@@ -83,4 +84,4 @@ Thanks for stopping by. Feel free to fork this project, raise issues, or drop a 
 
 ---
 
-> Built with ❤️ by **Soumyajit Basak**
+> Built with ❤️ by **Sonu Verma**
